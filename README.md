@@ -208,7 +208,7 @@ http://localhost:5173
 
 ### 🔄 Multi-Agent Coordination During Simulation
 
-![Earthquake Agents](screenshots/earthquake-agentlog02.png)
+![Earthquake Agents](screenshots/earthquack-agentlog02.png)
 
 ## 🌟 Future Enhancements
 
