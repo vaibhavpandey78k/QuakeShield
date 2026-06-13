@@ -180,6 +180,35 @@ http://localhost:5173
 - Sensitive credentials are excluded using `.gitignore`.
 
 ---
+## 📸 QuakeShield in Action
+
+### 🧠 Phi-4 Incident Analysis
+
+![Phi Analysis](screenshots/phi-analysis.png)
+
+---
+
+### 🤖 Agent Communication Log
+
+![Agent Log](screenshots/agent-log.png)
+
+---
+
+### ⚠️ Resource Exhaustion Detection
+
+![Resource Exhaustion](screenshots/resources-exhaustion.png)
+
+---
+
+### 🌍 Earthquake Simulation Dashboard
+
+![Earthquake Dashboard](screenshots/earthquake-simulation01.png)
+
+---
+
+### 🔄 Multi-Agent Coordination During Simulation
+
+![Earthquake Agents](screenshots/earthquake-agentlog02.png)
 
 ## 🌟 Future Enhancements
 
